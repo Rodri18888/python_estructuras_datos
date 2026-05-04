@@ -4,11 +4,6 @@
 
 Esta tarea/proyecto de python esta destinada a que podamos entender y dominar las estructuras de datos, un concepto que nos servira bastante en el desarrollo backend que aprenderemos a lo largo de las clases
 
-
-### autor
-
-Rodrigo Alberto Velez Diaz Ficha 3114227
-
 ### Reto 1 (Listas)
 
 #### Explicacion breve de la estructura de datos
